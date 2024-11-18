@@ -1,4 +1,4 @@
-const apikey = "17315bfe117cdaefbb31e516e0ce9b2b"
+const apikey = "---"
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 const searchBox=document.querySelector(".search input")
